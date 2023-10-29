@@ -1,0 +1,15 @@
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/HungryNinja/bin/Debug/net7.0/HungryNinja
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/HungryNinja/bin/Debug/net7.0/HungryNinja.deps.json
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/HungryNinja/bin/Debug/net7.0/HungryNinja.runtimeconfig.json
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/HungryNinja/bin/Debug/net7.0/HungryNinja.dll
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/HungryNinja/bin/Debug/net7.0/HungryNinja.pdb
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/HungryNinja/obj/Debug/net7.0/HungryNinja.csproj.AssemblyReference.cache
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/HungryNinja/obj/Debug/net7.0/HungryNinja.GeneratedMSBuildEditorConfig.editorconfig
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/HungryNinja/obj/Debug/net7.0/HungryNinja.AssemblyInfoInputs.cache
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/HungryNinja/obj/Debug/net7.0/HungryNinja.AssemblyInfo.cs
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/HungryNinja/obj/Debug/net7.0/HungryNinja.csproj.CoreCompileInputs.cache
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/HungryNinja/obj/Debug/net7.0/HungryNinja.dll
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/HungryNinja/obj/Debug/net7.0/refint/HungryNinja.dll
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/HungryNinja/obj/Debug/net7.0/HungryNinja.pdb
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/HungryNinja/obj/Debug/net7.0/HungryNinja.genruntimeconfig.cache
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/HungryNinja/obj/Debug/net7.0/ref/HungryNinja.dll
